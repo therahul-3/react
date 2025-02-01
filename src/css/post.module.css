@@ -1,0 +1,8 @@
+.card {
+    border-radius: 8px;
+    border: 1px solid wheat;
+    box-shadow: 1px 1px 5px wheat;
+    padding: 10px;
+    width: 50%;
+    margin: 10px;
+  }
